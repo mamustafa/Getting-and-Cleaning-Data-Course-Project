@@ -16,7 +16,7 @@ This repo includes following files:
 3. run_analysis.R: R script to transform raw data set in a tidy one
 
 
-#data processing with run_analysis.R Script
+#Data processing with run_analysis.R Script
 
 Downloads the dataset from the URL mentioned above and unzips it to create UCI HAR Dataset folder
 
