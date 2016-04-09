@@ -9,9 +9,9 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 
 #Files Included in Repository
 This repo includes following files:
-1. CodeBook.md: information about raw and tidy data set and elaboration made to transform them
-2. README.md: this file
-3. run_analysis.R: R script to transform raw data set in a tidy one
+* CodeBook.md: information about raw and tidy data set and elaboration made to transform them
+* README.md: this file
+* run_analysis.R: R script to transform raw data set in a tidy one
 
 
 #data processing with run_analysis.R Script
